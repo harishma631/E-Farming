@@ -1,0 +1,2 @@
+# E-Farming
+E-Farming is a project developed to build a website which will help farmers to sell their products through online.In this System, Farmers will upload his products in e-marketing site and also take the advantage of environmental conditions by weather forecast option to browse the weather conditions in his area based on the GPS location. In this system, seller always be a farmer and customer can be any hotel, food stall or common man. The customer can select and see the details about the product  includes the details of the seller as well as available quantity. 
